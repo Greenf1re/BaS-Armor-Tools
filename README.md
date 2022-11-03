@@ -1,4 +1,4 @@
-# BaS-Armor-Tools
+# BaS Armor Tools
 A few scripts that help with making armors for the VR game Blade and Sorcery. They're intended to be used in combination with the Bone Renderer from the "Animation Rigging" tab of the Unity inspector.
 ## Scripts
 1. Pose BAS Avatar:
